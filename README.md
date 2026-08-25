@@ -1,4 +1,4 @@
-### 🌍 Dr. Andreas Hoy | Applied Climatologist & Digital Climate Service Architect
+### 🌍 Andreas Hoy | Applied Climatologist & Digital Climate Service Architect
 
 Hi, I'm Andreas. I am an Applied Climatologist (Ph.D.) driven by bridging the gap between real-time weather and long-term climate to improve climate communication and support better adaptation. While we surely have an abundance of data and webtools available for both, connecting extreme weather events with a climate perspective often critically lags in time. Yet, public interest calls for immediate assessment while an event occurs. 
 
