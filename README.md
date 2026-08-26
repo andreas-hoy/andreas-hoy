@@ -12,7 +12,7 @@ I am currently engineering **AtmoPulse**, an interactive web-based analytical to
 
 
 #### 🛠️ Bridging Science & Scalable Engineering
-While my foundational expertise lies in atmospheric data and processes, I am actively expanding my backend engineering capabilities to ensure my digital climate services scale robustly. The **`sql-python-workflows** repository documents my ongoing, structured upskilling in continuous integration/development pipelines, PostgreSQL database architecture and Git version control. This coursework complements AtmoPulse's high-speed binary architecture by teaching me the relational database logic necessary for future user-state management and operational deployment.
+While my foundational expertise lies in atmospheric data and processes, I am actively expanding my backend engineering capabilities to ensure my digital climate services scale robustly. The **sql-python-workflows** repository documents my ongoing, structured upskilling in version control workflows, database architecture and pipeline automation. This coursework complements AtmoPulse's high-speed binary architecture by teaching me the relational database logic necessary for future user-state management and operational deployment.
 
 #### 📫 Let's Connect
 * **LinkedIn:** [linkedin.com/in/andreas-hoy-7b2387206](https://www.linkedin.com/in/andreas-hoy-7b2387206)
